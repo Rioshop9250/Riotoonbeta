@@ -1,0 +1,14 @@
+{
+  "name": "Riotoonbeta",
+  "version": "1.0.0",
+  "displayName": "Riotoon",
+  "description": "Rioシェーダーのベータ版です",
+  "unity": "2022.3",
+  "author": {
+    "name": "Rio",
+    "url": "https://x.com/riogames925"
+  },
+  "vpmDependencies": {
+    "com.vrchat.base": "^3.0.0"
+  }
+}
